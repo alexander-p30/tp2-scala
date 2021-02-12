@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, Some(51ec82a9-4cdb-4342-a35f-254315353ca1), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/alexander/Documents/unb/tp2/code/hello-world-template/target/scala-2.13/test-classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mArrayListTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An empty ArryList must have size == 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- A ArryList with 5 elements must have size == 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Element on index 1 in list [1, 10 ,100] must be 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element in position lower than 0 should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 161 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 4, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed Feb 7, 2021, 5:24:15 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

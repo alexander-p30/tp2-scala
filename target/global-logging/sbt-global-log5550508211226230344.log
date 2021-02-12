@@ -1,0 +1,14 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(test, None, None)[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Test / test[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to /home/alexander/Documents/unb/tp2/code/hello-world-template/target/scala-2.13/test-classes ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/alexander/Documents/unb/tp2/code/hello-world-template/src/test/scala/ImmutableListTest.scala:11:12: not found: value head[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(head(list).isEmpty)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/alexander/Documents/unb/tp2/code/hello-world-template/src/test/scala/ImmutableListTest.scala:17:12: not found: value head[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(head(list).contains(1))[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Test / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 2 s, completed Feb 8, 2021, 4:05:02 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(idea-shell, None, None)[0m

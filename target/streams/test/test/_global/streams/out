@@ -1,0 +1,33 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.ed.ArrayListTest, org.scalatest.tools.Framework$$anon$1@163473, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(br.unb.cic.ed.ImmutableListTest, org.scalatest.tools.Framework$$anon$1@163473, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mImmutableListTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching head of empty list returns None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mArrayListTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching head of non-empty list return the list's first element[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An empty ArryList must have size == 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Size of empty list must be 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- An ArrayList with 5 elements must have size == 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Size of list with 3 elements must be 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Element on index 1 in list [1, 10 ,100] must be 10[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element on an empty list returns None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Element on index 0 in list [1, 10 ,100] must be 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element at a valid position returns its value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element in position lower than 0 should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element at a invalid position returns None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Remove element in valid position returns that element[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element present in list should return it[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Remove element in valid position decreases array's size[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Fetching element not present in list should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Finding value present in array returns that element[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Finding value not present in array returns None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Adding element to list puts it at the end of the list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Removing element present in list should return a list without that element[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Removing element not present in list should return None[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 261 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 21[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 21, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.ed.ImmutableListTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	br.unb.cic.ed.ArrayListTest[0m

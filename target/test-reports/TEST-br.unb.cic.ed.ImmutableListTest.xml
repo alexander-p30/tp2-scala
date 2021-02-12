@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="alexander-c340" name="br.unb.cic.ed.ImmutableListTest" tests="12" errors="0" failures="0" skipped="0" time="0.019" timestamp="2021-02-12T14:39:04">
+                     <properties>
+      <property name="java.specification.version" value="15"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="sun.arch.data.model" value="64"/><property name="sbt.supershell" value="false"/><property name="java.vendor.url" value="https://openjdk.java.net/"/><property name="sun.boot.library.path" value="/usr/lib/jvm/java-15-openjdk/lib"/><property name="sun.java.command" value="/home/alexander/.local/share/JetBrains/IntelliJIdea2020.3/Scala/launcher/sbt-launch.jar early(addPluginSbtFile=&quot;&quot;&quot;/tmp/idea.sbt&quot;&quot;&quot;) ; set ideaPort in Global := 36269 ; idea-shell"/><property name="jdk.debug" value="release"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="java.version.date" value="2021-01-19"/><property name="java.home" value="/usr/lib/jvm/java-15-openjdk"/><property name="file.separator" value="/"/><property name="java.vm.compressedOopsMode" value="32-bit"/><property name="line.separator" value="
+"/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="java.runtime.version" value="15.0.2+7"/><property name="user.name" value="alexander"/><property name="log4j.ignoreTCL" value="true"/><property name="file.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/home/alexander/.cache/JNA/temp/jna14414714335796825322.tmp"/><property name="jna.loaded" value="true"/><property name="java.io.tmpdir" value="/tmp"/><property name="java.version" value="15.0.2"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/><property name="java.vendor" value="N/A"/><property name="sun.io.unicode.encoding" value="UnicodeLittle"/><property name="java.class.path" value="/home/alexander/.local/share/JetBrains/IntelliJIdea2020.3/Scala/launcher/sbt-launch.jar"/><property name="java.vm.vendor" value="Oracle Corporation"/><property name="jline.shutdownhook" value="false"/><property name="user.timezone" value="America/Sao_Paulo"/><property name="java.vm.specification.version" value="15"/><property name="os.name" value="Linux"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="user.country" value="US"/><property name="sun.cpu.endian" value="little"/><property name="user.home" value="/home/alexander"/><property name="user.language" value="en"/><property name="swoval.tmpdir" value="/home/alexander/.sbt/1.0"/><property name="jline.esc.timeout" value="0"/><property name="path.separator" value=":"/><property name="os.version" value="5.10.15-1-MANJARO"/><property name="jna.nosys" value="true"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="jna.platform.library.path" value="/usr/lib64:/lib64:/usr/lib:/lib:/usr/lib32:/usr/lib/openmpi:/usr/lib/libfakeroot"/><property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/><property name="user.dir" value="/home/alexander/Documents/unb/tp2/code/tp2_ds"/><property name="os.arch" value="amd64"/><property name="idea.managed" value="true"/><property name="java.vm.info" value="mixed mode"/><property name="java.vm.version" value="15.0.2+7"/><property name="java.class.version" value="59.0"/>
+    </properties>
+                     <testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching head of empty list returns None" time="0.016">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching head of non-empty list return the list's first element" time="0.001">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Size of empty list must be 0" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Size of list with 3 elements must be 3" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching element on an empty list returns None" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching element at a valid position returns its value" time="0.001">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching element at a invalid position returns None" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching element present in list should return it" time="0.001">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Fetching element not present in list should return None" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Adding element to list puts it at the end of the list" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Removing element present in list should return a list without that element" time="0.0">
+                                                 
+                                               </testcase><testcase classname="br.unb.cic.ed.ImmutableListTest" name="Removing element not present in list should return None" time="0.0">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>
